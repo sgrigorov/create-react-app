@@ -5,7 +5,7 @@ function Header () {
     return (
         <section className="Header">
             <hr />
-            Stan's Header
+            Welcome to Stan's Web Site
             <hr />
         </section>
     )

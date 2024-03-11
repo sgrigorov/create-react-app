@@ -5,7 +5,7 @@ function Footer () {
     return (
         <section className="Footer">
             <hr />
-            Stan's Footer
+            This is Stan's Web Site Footer
             <hr />
         </section>
     )
