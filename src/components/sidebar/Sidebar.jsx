@@ -1,10 +1,16 @@
-import React from 'react';
-import './Sidebar.css';
+import React from "react";
+import "./Sidebar.css";
 
-function Sidebar() {
-  return (
-    <div className="Sidebar">Sidebar</div>
-  )
+function Sidebar () {
+    return (
+        <section className="Sidebar">
+            <hr />
+            <section className="Sidebar-text">
+            Sidebar
+            </section>
+            <hr />
+        </section>
+    )
 }
 
-export default Sidebar
+export default Sidebar;
