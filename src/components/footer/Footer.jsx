@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer () {
     return (
-        <section>
+        <section className="Footer">
             <hr className="footer-top__separator" />
             Stan's Footer
             <hr className="footer-top__separator" />
