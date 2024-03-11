@@ -7,7 +7,7 @@ function Sidebar () {
         <div className="Sidebar-text">
           Home Page
           About me
-          Contact me
+          Contact me!
         </div>
         <div className="Sidebar-text">
           About me
