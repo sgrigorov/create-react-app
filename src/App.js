@@ -1,5 +1,5 @@
 import React from 'react';
-// import './App.css';
+import './App.css';
 import { Header, Sidebar, Footer } from './components'
 
 function App() {
