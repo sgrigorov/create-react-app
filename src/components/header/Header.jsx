@@ -3,7 +3,7 @@ import React from "react";
 function Header () {
     return (
         <section>
-            <hr className="header-top__separator" />
+            <hr />
             Stan's Header
             <hr className="header-top__separator" />
         </section>
