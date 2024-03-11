@@ -4,13 +4,13 @@ import "./Sidebar.css";
 function Sidebar () {
     return (
       <div className="Sidebar">
-        <p>
+        <p className="Sidebar-text">
           Home Page
         </p>
-        <p>
+        <p className="Sidebar-text">
           About me
         </p>
-        <p>
+        <p className="Sidebar-text">
           Contact me
         </p>
       </div>

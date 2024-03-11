@@ -2,8 +2,15 @@
     height: 100%;
     width: 200px;
     background-color: blueviolet;
-    display: flex;
+    /* display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
+    display: table;
+    text-align: center;
 
+}
+
+.Sidebar-text {
+    display: table-cell;
+    vertical-align: middle;
 }
