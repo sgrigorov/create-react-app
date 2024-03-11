@@ -1,6 +1,7 @@
 .Header {
     text-align: center;
     /* background-color: brown; */
-    border: 1px solid gray;
+    border: 2px solid gray;
     border-radius: 5px;
+    border-bottom: 0cap;
   }
