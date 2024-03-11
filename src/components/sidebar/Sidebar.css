@@ -1,6 +1,6 @@
 .Sidebar {
-    height: 1000%;
+    height: 100%;
     width: 200px;
     background-color: gold;
-    vertical-align: middle;
+    vertical-align: text-bottom;
 }
