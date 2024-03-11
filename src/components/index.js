@@ -1,5 +1,5 @@
 import Header from './header'
-import Header from './footer'
+import Footer from './footer'
 // import Header from './nav'
 
 export {
