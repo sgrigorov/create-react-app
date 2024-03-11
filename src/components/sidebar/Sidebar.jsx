@@ -3,18 +3,17 @@ import "./Sidebar.css";
 
 function Sidebar () {
     return (
-      // <div className="Sidebar">
-      <div>
-          <p>
-            Home Page
-          </p>
-          <p>
-            About me
-          </p>
-          <p>
-            Contact me
-          </p>
-        </div>
+      <div className="Sidebar">
+        <p>
+          Home Page
+        </p>
+        <p>
+          About me
+        </p>
+        <p>
+          Contact me
+        </p>
+      </div>
     )
 }
 
