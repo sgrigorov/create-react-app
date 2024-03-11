@@ -2,7 +2,8 @@
     height: 100%;
     width: 200px;
     background-color: blueviolet;
-    /* display: flex; */
-    align-items: end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
