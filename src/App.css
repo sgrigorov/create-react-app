@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   /* background-color: aquamarine; */
-  min-height: 95vh;
+  min-height: 97vh;
   display: flex;
   flex-direction: column;
 
