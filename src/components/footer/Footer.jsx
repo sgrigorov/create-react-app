@@ -4,9 +4,9 @@ import "./Footer.css";
 function Footer () {
     return (
         <section className="Footer">
-            <hr className="footer-top__separator" />
+            <hr />
             Stan's Footer
-            <hr className="footer-top__separator" />
+            <hr />
         </section>
     )
 }

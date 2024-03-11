@@ -3,10 +3,10 @@ import "./Header.css";
 
 function Header () {
     return (
-        <section>
+        <section className="Header">
             <hr />
             Stan's Header
-            <hr className="header-top__separator" />
+            <hr />
         </section>
     )
 }
