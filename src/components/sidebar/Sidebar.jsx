@@ -4,11 +4,9 @@ import "./Sidebar.css";
 function Sidebar () {
     return (
         <section className="Sidebar">
-            <hr />
-            <section className="Sidebar-text">
-            Sidebar
-            </section>
-            <hr />
+            Home Page
+            About me
+            Contact me
         </section>
     )
 }
